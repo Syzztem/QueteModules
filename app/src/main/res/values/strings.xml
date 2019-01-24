@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="reset">RESET</string>
+    <string name="song">https://home.pilsfree.net/quintrix/upload/mp3/Green%20Day%20-%20Revolution.mp3</string>
+</resources>
